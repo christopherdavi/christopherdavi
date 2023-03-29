@@ -27,7 +27,6 @@ I like to create clones of real applications. You can see them in my repositorie
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
  </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi00&show_icons=true&locale=en&layout=compact" alt="prachi00" /></p>
 
 
 
