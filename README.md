@@ -1,5 +1,4 @@
 ### Desarrollor de Sotfware 😋🎧💻☕
-<br />
 I like to create clones of real applications. You can see them in my repositories 😄
 
  🔭 I’m currently working on 
