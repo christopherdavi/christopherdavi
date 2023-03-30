@@ -1,7 +1,6 @@
 ### Desarrollor de Sotfware 😋🎧💻☕
-### Un apasionado desarrollador de software del Ecuador
 
-Me gusta crear y cloniar aplicaciones reales. Puedes verlos en mis repositorios.😄
+Me gusta crear y clonar aplicaciones reales. Puedes verlos en mis repositorios.😄
 
  🔭 I’m currently working on 
 
