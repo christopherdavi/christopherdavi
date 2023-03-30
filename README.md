@@ -1,5 +1,7 @@
 ### Desarrollor de Sotfware 😋🎧💻☕
-I like to create clones of real applications. You can see them in my repositories 😄
+### Un apasionado desarrollador de software del Ecuador
+
+Me gusta crear y cloniar aplicaciones reales. Puedes verlos en mis repositorios.😄
 
  🔭 I’m currently working on 
 
@@ -11,7 +13,7 @@ I like to create clones of real applications. You can see them in my repositorie
 
  📫 How to reach me cristopher11.morales@hotmail.com
 
- 😄 In my free time I listen to music, I watch movies or series, I love to travel, I play, football.
+ 😄 En mi tiempo libre escucho música, veo películas o series, me encanta viajar, jugar videojuegos, fútbol.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
