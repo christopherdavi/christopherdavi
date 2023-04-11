@@ -31,7 +31,7 @@ Me gusta crear y clonar aplicaciones reales. Puedes verlos en mis repositorios.ð
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherdavi&show_icons=true&locale=en&layout=compact" alt="christopherdavi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherdavi&show_icons=true&locale=en" alt="christopherdavi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christopherdavi&" alt="christopherdavi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christopherdavi" alt="christopherdavi" /></p>
 
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
