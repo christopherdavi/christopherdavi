@@ -1,5 +1,4 @@
 ### Desarrollor de Sotfware 😋🎧💻☕
-
 Me gusta crear y clonar aplicaciones reales. Puedes verlos en mis repositorios.😄
 
  🔭 I’m currently working on 
@@ -13,6 +12,8 @@ Me gusta crear y clonar aplicaciones reales. Puedes verlos en mis repositorios.�
  📫 How to reach me cristopher11.morales@hotmail.com
 
  😄 En mi tiempo libre escucho música, veo películas o series, me encanta viajar, jugar videojuegos, fútbol.
+<h3 align="left">❤ Support me:</h3>
+<p><a href="https://www.buymeacoffee.com/morenike"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="morenike" /></a></p><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
